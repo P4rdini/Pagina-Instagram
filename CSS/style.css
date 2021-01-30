@@ -1,0 +1,40 @@
+body{
+    max-width: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+    margin: auto;
+    text-align: center;
+    
+}
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    text-transform: capitalize;
+    width: 90%;
+    color:rgba(10, 2, 2, 0.692);
+    
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: rgba(67, 109, 148, 0.808);
+    text-align: left;
+    margin-left:5%;
+    width: 90%;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+li{
+    text-align: left;
+    margin-left: 5%;
+    list-style: square;
+}
+div{
+    border:2px solid black;
+    border-radius: 10%;
+    margin:5%;
+    padding:0;
+}
